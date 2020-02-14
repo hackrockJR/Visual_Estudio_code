@@ -1,0 +1,13 @@
+Instalar Visual studio code
+Instalar git 
+Configurar el path para python // Esto es adicional. 
+
+Ir al menu view> palette 
+
+Escribir el comando git clone  <direccion del repositorio en github>
+
+Asociar carpeta local
+
+Establecer un push para enviar cambios a github.
+
+
