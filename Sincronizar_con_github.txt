@@ -6,8 +6,22 @@ Ir al menu view> palette
 
 Escribir el comando git clone  <direccion del repositorio en github>
 
-Asociar carpeta local
+Asociar carpeta local // Se recomienda el mismo nombre de carpeta o descargar la carpeta de github
 
-Establecer un push para enviar cambios a github.
+Establecer un push para enviar cambios a github >>>
+
+En el menu de cambios , dar click en push> agregar cuenta de github en la ventana que solicita usuario y contraseña.
+
+Agregar el siguinete comando en la terminal 
+
+c:\\Users\jromero\hackrockJR\pythonclass> git config --global user.email "<Correo_github>"
+c:\\Users\jromero\hackrockJR\pythonclass> git config --global user.name "<Usuario_de_github>"
+
+Luego se debe actualizar los cambios en el codigo> 
+
+Hacer click en el commit <signo de check>  , luego en el message (ctrl+Enter) escribir el nombre del cambio. 
+
+Luego realizar nuevamente el push y esperar que sincronize los cambios.
+<<<
 
 
