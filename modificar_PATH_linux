@@ -19,3 +19,5 @@ Ejemplo de ejecución:
 
 [root@LINUX1 ~]# echo $PATH
 /usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin:/ruta
+
+https://www.sysadmit.com/2016/06/linux-anadir-ruta-al-path.html
