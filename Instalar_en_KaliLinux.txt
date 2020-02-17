@@ -13,3 +13,5 @@ Actualizar Kali
 apt-get update
 
 instalar plugin python
+
+---> Ver el txt de como sincronizar con la cuenta de github <---- 
