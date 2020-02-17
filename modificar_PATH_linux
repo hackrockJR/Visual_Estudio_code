@@ -1,0 +1,21 @@
+Si ejecutamos:
+
+echo $PATH
+
+podremos ver el contenido de la variable de entorno PATH.
+
+Ahora bien: ¿Cómo añadimos una ruta a la variable de entorno PATH?
+
+Bastaría con ejecutar:
+
+export PATH=$PATH:/ruta
+
+Ejemplo de ejecución:
+
+[root@LINUX1 ~]# echo $PATH
+/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin
+
+[root@LINUX1 ~]# export PATH=$PATH:/ruta
+
+[root@LINUX1 ~]# echo $PATH
+/usr/local/sbin:/usr/local/bin:/sbin:/bin:/usr/sbin:/usr/bin:/root/bin:/ruta
