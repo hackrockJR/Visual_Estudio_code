@@ -1,0 +1,15 @@
+Descargar el deb visual studio code para debian
+
+entrar a la carpera de descarga
+
+cambiar los permisos con chmod +x <archivo_code_version_am64>.deb
+
+Instalar paquete .deb 
+
+dpkg -i <paquete.deb>
+
+Actualizar Kali 
+
+apt-get update
+
+instalar plugin python
